@@ -1,2 +1,2 @@
 # Statistics_for_Datascience
-statistics  practice for the data science and Machine learning
+statistics  practice for the data science and Machine learning AI
